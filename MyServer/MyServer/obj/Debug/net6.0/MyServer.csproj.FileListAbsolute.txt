@@ -1,0 +1,15 @@
+E:\开发\C#Socket\MyServer\MyServer\bin\Debug\net6.0\MyServer.exe
+E:\开发\C#Socket\MyServer\MyServer\bin\Debug\net6.0\MyServer.deps.json
+E:\开发\C#Socket\MyServer\MyServer\bin\Debug\net6.0\MyServer.runtimeconfig.json
+E:\开发\C#Socket\MyServer\MyServer\bin\Debug\net6.0\MyServer.dll
+E:\开发\C#Socket\MyServer\MyServer\bin\Debug\net6.0\ref\MyServer.dll
+E:\开发\C#Socket\MyServer\MyServer\bin\Debug\net6.0\MyServer.pdb
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.csproj.AssemblyReference.cache
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfoInputs.cache
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfo.cs
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.csproj.CoreCompileInputs.cache
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.dll
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\ref\MyServer.dll
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.pdb
+E:\开发\C#Socket\MyServer\MyServer\obj\Debug\net6.0\MyServer.genruntimeconfig.cache

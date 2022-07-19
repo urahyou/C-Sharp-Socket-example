@@ -1,0 +1,15 @@
+E:\开发\C#Socket\MyClient\MyClient\bin\Debug\net6.0\MyClient.exe
+E:\开发\C#Socket\MyClient\MyClient\bin\Debug\net6.0\MyClient.deps.json
+E:\开发\C#Socket\MyClient\MyClient\bin\Debug\net6.0\MyClient.runtimeconfig.json
+E:\开发\C#Socket\MyClient\MyClient\bin\Debug\net6.0\MyClient.dll
+E:\开发\C#Socket\MyClient\MyClient\bin\Debug\net6.0\ref\MyClient.dll
+E:\开发\C#Socket\MyClient\MyClient\bin\Debug\net6.0\MyClient.pdb
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.csproj.AssemblyReference.cache
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.AssemblyInfoInputs.cache
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.AssemblyInfo.cs
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.csproj.CoreCompileInputs.cache
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.dll
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\ref\MyClient.dll
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.pdb
+E:\开发\C#Socket\MyClient\MyClient\obj\Debug\net6.0\MyClient.genruntimeconfig.cache
